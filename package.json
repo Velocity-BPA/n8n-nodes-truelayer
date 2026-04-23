@@ -2,7 +2,7 @@
   "name": "n8n-nodes-truelayer",
   "version": "1.0.0",
   "description": "A comprehensive n8n community node for TrueLayer Open Banking API providing 19 resources and 100+ operations for payments, payouts, mandates, account data, identity verification, and merchant account management.",
-  "license": "BUSL-1.1",
+  "license": "SEE LICENSE IN LICENSE.md",
   "author": {
     "name": "Velocity BPA",
     "email": "licensing@velobpa.com",
@@ -73,7 +73,7 @@
     "eslint-plugin-n8n-nodes-base": "^1.16.1",
     "gulp": "^4.0.2",
     "jest": "^29.7.0",
-    "n8n-workflow": "^1.23.0",
+    "n8n-workflow": "1.57.0",
     "prettier": "^3.2.4",
     "rimraf": "^5.0.5",
     "ts-jest": "^29.1.2",
